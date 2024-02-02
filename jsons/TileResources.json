@@ -1,14 +1,37 @@
 [
         {
                 "name": "Gold Deposit",
+                "resourceType": "Bonus",
+		"terrainsCanBeFoundOn": ["Land"],
+		"uniques": ["Generated on every [20] tiles <in [Featureless] [Land] tiles>",
+					"Generated on every [10] tiles <in [Hill] [Land] tiles>"]
         },
         {
                 "name": "Culture Deposit",
+                "resourceType": "Bonus",
+		"terrainsCanBeFoundOn": ["Land"],
+		"uniques": ["Generated on every [30] tiles <in [Featureless] [Land] tiles>",
+					"Generated on every [15] tiles <in [Hill] [Land] tiles>"]
         },
         {
-                "name": "Gold Deposit",
+                "name": "Science Deposit",
+                "resourceType": "Bonus",
+		"terrainsCanBeFoundOn": ["Land"],
+		"uniques": ["Generated on every [30] tiles <in [Featureless] [Land] tiles>",
+					"Generated on every [15] tiles <in [Hill] [Land] tiles>"]
         },
         {
-                "name": "",
+                "name": "Faith Deposit",
+                "resourceType": "Bonus",
+		"terrainsCanBeFoundOn": ["Land"],
+		"uniques": ["Generated on every [30] tiles <in [Featureless] [Land] tiles>",
+					"Generated on every [15] tiles <in [Hill] [Land] tiles>"]
+        },
+        {
+                "name": "Great Gold Deposit",
+                "resourceType": "Bonus",
+		"terrainsCanBeFoundOn": ["Land"],
+		"uniques": ["Generated on every [40] tiles <in [Featureless] [Land] tiles>",
+					"Generated on every [30] tiles <in [Hill] [Land] tiles>"]
         },
 ]
