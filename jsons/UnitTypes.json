@@ -1,7 +1,23 @@
 [
     {
         "name": "Sword",
-        "uniques": [""],
+        "uniques": [
+            "Gain [2]-[4] [Gold] <upon ending a turn in a [Gold Deposit] tile>",
+            "Gain [4]-[6] [Gold] <upon ending a turn in a [Great Gold Deposit] tile>",
+            "Gain [2]-[4] [Culture] <upon ending a turn in a [Culture Deposit] tile>",
+            "Gain [2]-[4] [Science] <upon ending a turn in a [Science Deposit] tile>",
+            "Gain [1]-[3] [Faith] <upon ending a turn in a [Faith Deposit] tile>",
+            /* Sandbox */
+            "This Unit upgrades for free including special upgrades <every [5] turns> <upon ending a turn in a [Infinity Free Upgrade Deposit] tile>",
+            "Free [Infantry] appears <every [5] turns> <upon ending a turn in a [Infinity Free Infantry Deposit] tile>",
+            "This Unit gains the [Better Weapon] promotion <upon ending a turn in a [Public Strength Deposit] tile>",
+            "[+5]% Strength <upon ending a turn in a [Individual Strength Deposit] tile>",
+            "[+1] population in a random city <upon ending a turn in a [Population Deposit] tile>",
+            "This Unit gains [1] XP <upon ending a turn in a [XP Deposit] tile>",
+            "Heal this unit by [30] HP <upon ending a turn in a [Heal Deposit] tile>",
+            "This Unit takes [30] damage <upon ending a turn in a [Damage Deposit] tile>",
+            "This Unit takes [100] damage <upon ending a turn in a [Infinity Damage Deposit] tile>"
+        ],
         "movementType": "Land"
     },
     {
