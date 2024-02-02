@@ -3,4 +3,8 @@
                 "name": "Better Weapon",
                 "uniques": ["[+5]% Strength <for [all] units>","Doing so will consume this opportunity to choose a Promotion"]
         },
+        {
+                "name": "Miner",
+                "uniques": ["Bonus from Gold Deposit +100%"]
+        },
 ]
