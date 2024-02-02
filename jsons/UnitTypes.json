@@ -3,7 +3,9 @@
         "name": "Sword",
         "uniques": [
             "Gain [2]-[4] [Gold] <upon ending a turn in a [Gold Deposit] tile>",
+            "Gain [2]-[4] [Gold] <upon ending a turn in a [Gold Deposit] tile> <for units with [Miner]>",
             "Gain [4]-[6] [Gold] <upon ending a turn in a [Great Gold Deposit] tile>",
+            "Gain [4]-[6] [Gold] <upon ending a turn in a [Great Gold Deposit] tile> <for units with [Miner]>",
             "Gain [2]-[4] [Culture] <upon ending a turn in a [Culture Deposit] tile>",
             "Gain [2]-[4] [Science] <upon ending a turn in a [Science Deposit] tile>",
             "Gain [1]-[3] [Faith] <upon ending a turn in a [Faith Deposit] tile>",
