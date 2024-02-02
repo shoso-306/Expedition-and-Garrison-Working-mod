@@ -34,4 +34,35 @@
 		"uniques": ["Generated on every [40] tiles <in [Featureless] [Land] tiles>",
 					"Generated on every [30] tiles <in [Hill] [Land] tiles>"]
         },
+	// Sandbox
+	{
+		"name": "Infinity Free Upgrade Deposit",
+                "resourceType": "Bonus",
+		"terrainsCanBeFoundOn": ["Land"],
+		"uniques": ["Doesn't generate naturally"]
+	},
+	{
+		"name": "Infinity Free Infantry Deposit",
+                "resourceType": "Bonus",
+		"terrainsCanBeFoundOn": ["Land"],
+		"uniques": ["Doesn't generate naturally"]
+	},
+	{
+		"name": "Infinity Public Strength Deposit",
+                "resourceType": "Bonus",
+		"terrainsCanBeFoundOn": ["Land"],
+		"uniques": ["Doesn't generate naturally"]
+	},
+	{
+		"name": "Infinity Individual Strength Deposit",
+                "resourceType": "Bonus",
+		"terrainsCanBeFoundOn": ["Land"],
+		"uniques": ["Doesn't generate naturally"]
+	},
+	{
+		"name": "Infinity Population Deposit",
+                "resourceType": "Bonus",
+		"terrainsCanBeFoundOn": ["Land"],
+		"uniques": ["Doesn't generate naturally"]
+	},
 ]
