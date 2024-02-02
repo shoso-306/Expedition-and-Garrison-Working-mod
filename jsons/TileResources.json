@@ -48,19 +48,43 @@
 		"uniques": ["Doesn't generate naturally"]
 	},
 	{
-		"name": "Infinity Public Strength Deposit",
+		"name": "Public Strength Deposit",
                 "resourceType": "Bonus",
 		"terrainsCanBeFoundOn": ["Land"],
 		"uniques": ["Doesn't generate naturally"]
 	},
 	{
-		"name": "Infinity Individual Strength Deposit",
+		"name": "Individual Strength Deposit",
                 "resourceType": "Bonus",
 		"terrainsCanBeFoundOn": ["Land"],
 		"uniques": ["Doesn't generate naturally"]
 	},
 	{
-		"name": "Infinity Population Deposit",
+		"name": "Population Deposit",
+                "resourceType": "Bonus",
+		"terrainsCanBeFoundOn": ["Land"],
+		"uniques": ["Doesn't generate naturally"]
+	},
+	{
+		"name": "XP Deposit",
+                "resourceType": "Bonus",
+		"terrainsCanBeFoundOn": ["Land"],
+		"uniques": ["Doesn't generate naturally"]
+	},
+	{
+		"name": "Heal Deposit",
+                "resourceType": "Bonus",
+		"terrainsCanBeFoundOn": ["Land"],
+		"uniques": ["Doesn't generate naturally"]
+	},
+	{
+		"name": "Damage Deposit",
+                "resourceType": "Bonus",
+		"terrainsCanBeFoundOn": ["Land"],
+		"uniques": ["Doesn't generate naturally"]
+	},
+	{
+		"name": "Great Damage Deposit",
                 "resourceType": "Bonus",
 		"terrainsCanBeFoundOn": ["Land"],
 		"uniques": ["Doesn't generate naturally"]
