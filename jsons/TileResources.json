@@ -84,7 +84,7 @@
 		"uniques": ["Doesn't generate naturally"]
 	},
 	{
-		"name": "Great Damage Deposit",
+		"name": "Infinity Damage Deposit",
                 "resourceType": "Bonus",
 		"terrainsCanBeFoundOn": ["Grassland","Plains","Tundra","Fallout","Snow","Hill","Forest","Jungle","Oasis","Flood plains","Marsh"],
 		"uniques": ["Doesn't generate naturally"]
