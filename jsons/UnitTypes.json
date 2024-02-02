@@ -1,0 +1,35 @@
+[
+    {
+        "name": "Sword",
+        "uniques": [""],
+        "movementType": "Land"
+    },
+    {
+        "name": "Gunpowder",
+        "movementType": "Land"
+    },
+    {
+        "name": "Archery",
+        "movementType": "Land"
+    },
+    {
+        "name": "Ranged Gunpowder",
+        "movementType": "Land"
+    },
+    {
+        "name": "Scout",
+        "movementType": "Land"
+    },
+    {
+        "name": "Mounted",
+        "movementType": "Land"
+    },
+    {
+        "name": "Armored",
+        "movementType": "Land"
+    },
+    {
+        "name": "Siege",
+        "movementType": "Land"
+    },
+]
