@@ -12,5 +12,41 @@
 		"Plains+Culture Deposit+Farm": ["Plains+Farm","Culture Deposit"],
 		"Plains+Faith Deposit+Farm": ["Plains+Farm","Faith Deposit"],
 		"Plains+Science Deposit+Farm": ["Plains+Farm","Science Deposit"],
+		// FarmD
+		"Desert+Great Gold Deposit+Farm": ["Desert+Farm","Great Gold Deposit"],
+		"Desert+Gold Deposit+Farm": ["Desert+Farm","Gold Deposit"],
+		"Desert+Culture Deposit+Farm": ["Desert+Farm","Culture Deposit"],
+		"Desert+Faith Deposit+Farm": ["Desert+Farm","Faith Deposit"],
+		"Desert+Science Deposit+Farm": ["Desert+Farm","Science Deposit"],
+		// FarmT
+		"Tundra+Great Gold Deposit+Farm": ["Tundra+Farm","Great Gold Deposit"],
+		"Tundra+Gold Deposit+Farm": ["Tundra+Farm","Gold Deposit"],
+		"Tundra+Culture Deposit+Farm": ["Tundra+Farm","Culture Deposit"],
+		"Tundra+Faith Deposit+Farm": ["Tundra+Farm","Faith Deposit"],
+		"Tundra+Science Deposit+Farm": ["Tundra+Farm","Science Deposit"],
+		// FarmGH
+		"Grassland+Hill+Great Gold Deposit+Farm": ["Grassland+Farm","Hill","Great Gold Deposit"],
+		"Grassland+Hill+Gold Deposit+Farm": ["Grassland+Farm","Hill","Gold Deposit"],
+		"Grassland+Hill+Culture Deposit+Farm": ["Grassland+Farm","Hill","Culture Deposit"],
+		"Grassland+Hill+Faith Deposit+Farm": ["Grassland+Farm","Hill","Faith Deposit"],
+		"Grassland+Hill+Science Deposit+Farm": ["Grassland+Farm","Hill","Science Deposit"],
+		// FarmPH
+		"Plains+Hill+Great Gold Deposit+Farm": ["Plains+Farm","Hill","Great Gold Deposit"],
+		"Plains+Hill+Gold Deposit+Farm": ["Plains+Farm","Hill","Gold Deposit"],
+		"Plains+Hill+Culture Deposit+Farm": ["Plains+Farm","Hill","Culture Deposit"],
+		"Plains+Hill+Faith Deposit+Farm": ["Plains+Farm","Hill","Faith Deposit"],
+		"Plains+Hill+Science Deposit+Farm": ["Plains+Farm","Hill","Science Deposit"],
+		// FarmDH
+		"Desert+Hill+Great Gold Deposit+Farm": ["Desert+Farm","Hill","Great Gold Deposit"],
+		"Desert+Hill+Gold Deposit+Farm": ["Desert+Farm","Hill","Gold Deposit"],
+		"Desert+Hill+Culture Deposit+Farm": ["Desert+Farm","Hill","Culture Deposit"],
+		"Desert+Hill+Faith Deposit+Farm": ["Desert+Farm","Hill","Faith Deposit"],
+		"Desert+Hill+Science Deposit+Farm": ["Desert+Farm","Hill","Science Deposit"],
+		// FarmTH
+		"Tundra+Hill+Great Gold Deposit+Farm": ["Tundra+Farm","Hill","Great Gold Deposit"],
+		"Tundra+Hill+Gold Deposit+Farm": ["Tundra+Farm","Hill","Gold Deposit"],
+		"Tundra+Hill+Culture Deposit+Farm": ["Tundra+Farm","Hill","Culture Deposit"],
+		"Tundra+Hill+Faith Deposit+Farm": ["Tundra+Farm","Hill","Faith Deposit"],
+		"Tundra+Hill+Science Deposit+Farm": ["Tundra+Farm","Hill","Science Deposit"],
 	},
 }
