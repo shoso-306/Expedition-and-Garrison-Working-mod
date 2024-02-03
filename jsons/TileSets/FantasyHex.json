@@ -1,6 +1,6 @@
 {
 	"ruleVariants": {
-		"Great Gold Deposit+Farm": ["Farm"],
-		"Grassland+Faunas": ["Grassland","FaunasG"],
+		"Great Gold Deposit+Farm": ["Farm","Great Gold Deposit"],
+		"Gold Deposit+Farm": ["Farm","Gold Deposit"],
 	},
 }
