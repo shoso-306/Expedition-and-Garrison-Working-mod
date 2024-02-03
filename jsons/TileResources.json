@@ -34,7 +34,9 @@
 		"uniques": ["Generated on every [60] tiles <in [Featureless] [Land] tiles>",
 					"Generated on every [45] tiles <in [Hill] tiles>"]
         },
+	
 	// Sandbox
+	
 	{
 		"name": "Infinity Free Upgrade Deposit",
                 "resourceType": "Bonus",
