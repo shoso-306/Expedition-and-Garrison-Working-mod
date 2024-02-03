@@ -1,6 +1,16 @@
 {
 	"ruleVariants": {
-		"Great Gold Deposit+Farm": ["Farm","Great Gold Deposit"],
-		"Gold Deposit+Farm": ["Farm","Gold Deposit"],
+		// FarmG
+		"Grassland+Great Gold Deposit+Farm": ["Grassland+Farm","Great Gold Deposit"],
+		"Grassland+Gold Deposit+Farm": ["Grassland+Farm","Gold Deposit"],
+		"Grassland+Culture Deposit+Farm": ["Grassland+Farm","Culture Deposit"],
+		"Grassland+Faith Deposit+Farm": ["Grassland+Farm","Faith Deposit"],
+		"Grassland+Science Deposit+Farm": ["Grassland+Farm","Science Deposit"],
+		// FarmP
+		"Plains+Great Gold Deposit+Farm": ["Plains+Farm","Great Gold Deposit"],
+		"Plains+Gold Deposit+Farm": ["Plains+Farm","Gold Deposit"],
+		"Plains+Culture Deposit+Farm": ["Plains+Farm","Culture Deposit"],
+		"Plains+Faith Deposit+Farm": ["Plains+Farm","Faith Deposit"],
+		"Plains+Science Deposit+Farm": ["Plains+Farm","Science Deposit"],
 	},
 }
