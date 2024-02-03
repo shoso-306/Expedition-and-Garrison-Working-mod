@@ -94,7 +94,7 @@ ResourceIcons/Population Deposit
   orig: 100, 100
   offset: 0, 0
   index: -1
-PromotionIcons/Miner
+UnitPromotionIcons/Miner
   rotate: false
   xy: 0, 500
   size: 100, 100
@@ -108,7 +108,7 @@ ResourceIcons/Science Deposit
   orig: 100, 100
   offset: 0, 0
   index: -1
-PromotionIcons/Better Weapon
+UnitPromotionIcons/Better Weapon
   rotate: false
   xy: 0, 700
   size: 50, 50
