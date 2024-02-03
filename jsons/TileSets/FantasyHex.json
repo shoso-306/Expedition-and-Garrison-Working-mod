@@ -1,5 +1,12 @@
 {
 	"ruleVariants": {
+		// Forest
+		"Grassland+Forest+Great Gold Deposit": ["Great Gold Deposit","GrasslandForest"],
+		"Grassland+Forest+Gold Deposit": ["Gold Deposit","GrasslandForest"],
+		"Grassland+Forest+Culture Deposit": ["Culture Deposit","GrasslandForest"],
+		"Grassland+Forest+Faith Deposit": ["Faith Deposit","GrasslandForest"],
+		"Grassland+Forest+Science Deposit": ["Science Deposit","GrasslandForest"],
+		// Jungle
 		// FarmG
 		"Grassland+Great Gold Deposit+Farm": ["Grassland+Farm","Great Gold Deposit"],
 		"Grassland+Gold Deposit+Farm": ["Grassland+Farm","Gold Deposit"],
