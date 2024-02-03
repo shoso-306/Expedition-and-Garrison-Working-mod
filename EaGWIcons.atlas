@@ -97,8 +97,8 @@ ResourceIcons/Population Deposit
 PromotionIcons/Miner
   rotate: false
   xy: 0, 500
-  size: 50, 50
-  orig: 50, 50
+  size: 100, 100
+  orig: 100, 100
   offset: 0, 0
   index: -1
 ResourceIcons/Science Deposit
