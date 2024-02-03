@@ -10,8 +10,25 @@
 				"extraImage": "TileSets/FantasyHex/Tiles/Gold Deposit",
 				"imageSize": 192,
 			},
+			{ "separator": true },
 			{
 				"text": "Instantly gives 2 to 4 Gold when garrisoning",
+			},
+			{ "separator": true },
+			{
+				"text": "Instantly gives 2 to 4 Gold when garrisoning",
+			},
+			{ "separator": true },
+			{
+				"text": "Instantly gives 2 to 4 Gold when garrisoning",
+			},
+			{ "separator": true },
+			{
+				"text": "If your garrisoning unit have Miner Promotion, All of profit from this tile +100%",
+				"header": 1,
+				"starred": true,
+				"link": "Promotion/Miner",
+				"color": "gold"
 			},
 		]
         },
