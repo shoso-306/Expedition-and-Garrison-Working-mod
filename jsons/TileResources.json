@@ -12,23 +12,35 @@
 			},
 			{ "separator": true },
 			{
-				"text": "Instantly gives 2 to 4 Gold when garrisoning",
+				"text": "Instantly gives 2 to 4 Gold when garrisoning in Ancient era",
+				"icon": "StatIcons/Gold",
+				"color": "#ffeb7f"
 			},
-			{ "separator": true },
 			{
-				"text": "Instantly gives 2 to 4 Gold when garrisoning",
+				"text": "Instantly gives 5 to 10 Gold when garrisoning in Medieval era",
+				"icon": "StatIcons/Gold",
+				"color": "#ffeb7f"
 			},
-			{ "separator": true },
 			{
-				"text": "Instantly gives 2 to 4 Gold when garrisoning",
+				"text": "Instantly gives 9 to 18 Gold when garrisoning in Industrial era",
+				"icon": "StatIcons/Gold",
+				"color": "#ffeb7f"
 			},
-			{ "separator": true },
+			{
+				"text": "Instantly gives 15 to 30 Gold when garrisoning in Atomic era",
+				"icon": "StatIcons/Gold",
+				"color": "#ffeb7f"
+			},
+			{
+				"text": "Instantly gives 27 to 54 Gold when garrisoning in Future era",
+				"icon": "StatIcons/Gold",
+				"color": "#ffeb7f"
+			},
 			{
 				"text": "If your garrisoning unit have Miner Promotion, All of profit from this tile +100%",
-				"header": 1,
 				"starred": true,
 				"link": "Promotion/Miner",
-				"color": "gold"
+				"color": "yerrow"
 			},
 		]
         },
@@ -43,8 +55,27 @@
 				"extraImage": "TileSets/FantasyHex/Tiles/Culture Deposit",
 				"imageSize": 192,
 			},
+			{ "separator": true },
 			{
-				"text": "Instantly gives 2 to 4 Culture when garrisoning",
+				"text": "Instantly gives 2 to 4 Culture when garrisoning in Ancient era",
+				"icon": "StatIcons/Culture",
+				"color": "#cf8ff7",
+			},
+			{
+				"text": "Instantly gives 2 to 4 Culture when garrisoning in Medieval era",
+				"color": "#cf8ff7",
+			},
+			{
+				"text": "Instantly gives 9 to 18 Culture when garrisoning in Industrial era",
+				"color": "#cf8ff7",
+			},
+			{
+				"text": "Instantly gives 15 to 30 Culture when garrisoning in Atomic era",
+				"color": "#cf8ff7",
+			},
+			{
+				"text": "Instantly gives 27 to 54 Culture when garrisoning in Future era",
+				"color": "#cf8ff7",
 			},
 		]
         },
