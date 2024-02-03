@@ -2,6 +2,7 @@
     {
         "name": "Sword",
         "uniques": [
+            /* Ancient */
             "Gain [2]-[4] [Gold] <upon ending a turn in a [Gold Deposit] tile>",
             "Gain [2]-[4] [Gold] <upon ending a turn in a [Gold Deposit] tile> <for units with [Miner]>",
             "Gain [4]-[6] [Gold] <upon ending a turn in a [Great Gold Deposit] tile>",
@@ -9,6 +10,38 @@
             "Gain [2]-[4] [Culture] <upon ending a turn in a [Culture Deposit] tile>",
             "Gain [2]-[4] [Science] <upon ending a turn in a [Science Deposit] tile>",
             "Gain [1]-[3] [Faith] <upon ending a turn in a [Faith Deposit] tile>",
+            /* Medieval */
+            "Gain [3]-[6] [Gold] <upon ending a turn in a [Gold Deposit] tile> <starting from the [Medieval era]>",
+            "Gain [3]-[6] [Gold] <upon ending a turn in a [Gold Deposit] tile> <starting from the [Medieval era]> <for units with [Miner]>",
+            "Gain [6]-[9] [Gold] <upon ending a turn in a [Great Gold Deposit] tile> <starting from the [Medieval era]>",
+            "Gain [6]-[9] [Gold] <upon ending a turn in a [Great Gold Deposit] tile> <starting from the [Medieval era]> <for units with [Miner]>",
+            "Gain [4]-[8] [Culture] <upon ending a turn in a [Culture Deposit] tile> <starting from the [Medieval era]>",
+            "Gain [4]-[8] [Science] <upon ending a turn in a [Science Deposit] tile> <starting from the [Medieval era]>",
+            "Gain [2]-[5] [Faith] <upon ending a turn in a [Faith Deposit] tile> <starting from the [Medieval era]>",
+            /* Industrial */
+            "Gain [4]-[8] [Gold] <upon ending a turn in a [Gold Deposit] tile> <starting from the [Industrial era]>",
+            "Gain [4]-[8] [Gold] <upon ending a turn in a [Gold Deposit] tile> <starting from the [Industrial era]> <for units with [Miner]>",
+            "Gain [8]-[12] [Gold] <upon ending a turn in a [Great Gold Deposit] tile> <starting from the [Industrial era]>",
+            "Gain [8]-[12] [Gold] <upon ending a turn in a [Great Gold Deposit] tile> <starting from the [Industrial era]> <for units with [Miner]>",
+            "Gain [4]-[8] [Culture] <upon ending a turn in a [Culture Deposit] tile> <starting from the [Industrial era]>",
+            "Gain [4]-[8] [Science] <upon ending a turn in a [Science Deposit] tile> <starting from the [Industrial era]>",
+            "Gain [2]-[6] [Faith] <upon ending a turn in a [Faith Deposit] tile> <starting from the [Industrial era]>",
+            /* Atomic */
+            "Gain [6]-[12] [Gold] <upon ending a turn in a [Gold Deposit] tile> <starting from the [Atomic era]>",
+            "Gain [6]-[12] [Gold] <upon ending a turn in a [Gold Deposit] tile> <starting from the [Atomic era]> <for units with [Miner]>",
+            "Gain [12]-[18] [Gold] <upon ending a turn in a [Great Gold Deposit] tile> <starting from the [Atomic era]>",
+            "Gain [12]-[18] [Gold] <upon ending a turn in a [Great Gold Deposit] tile> <starting from the [Atomic era]> <for units with [Miner]>",
+            "Gain [6]-[12] [Culture] <upon ending a turn in a [Culture Deposit] tile> <starting from the [Atomic era]>",
+            "Gain [6]-[12] [Science] <upon ending a turn in a [Science Deposit] tile> <starting from the [Atomic era]>",
+            "Gain [3]-[9] [Faith] <upon ending a turn in a [Faith Deposit] tile> <starting from the [Atomic era]>",
+            /* Atomic */
+            "Gain [12]-[24] [Gold] <upon ending a turn in a [Gold Deposit] tile> <starting from the [Future era]>",
+            "Gain [12]-[24] [Gold] <upon ending a turn in a [Gold Deposit] tile> <starting from the [Future era]> <for units with [Miner]>",
+            "Gain [24]-[36] [Gold] <upon ending a turn in a [Great Gold Deposit] tile> <starting from the [Future era]>",
+            "Gain [24]-[36] [Gold] <upon ending a turn in a [Great Gold Deposit] tile> <starting from the [Future era]> <for units with [Miner]>",
+            "Gain [12]-[24] [Culture] <upon ending a turn in a [Culture Deposit] tile> <starting from the [Future era]>",
+            "Gain [12]-[24] [Science] <upon ending a turn in a [Science Deposit] tile> <starting from the [Future era]>",
+            "Gain [6]-[18] [Faith] <upon ending a turn in a [Faith Deposit] tile> <starting from the [Future era]>",
             /* Sandbox */
             "This Unit upgrades for free including special upgrades <every [5] turns> <upon ending a turn in a [Infinity Free Upgrade Deposit] tile>",
             "Free [Infantry] appears <every [5] turns> <upon ending a turn in a [Infinity Free Infantry Deposit] tile>",
