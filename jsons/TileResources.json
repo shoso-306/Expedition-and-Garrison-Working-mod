@@ -4,28 +4,64 @@
                 "resourceType": "Bonus",
 		"terrainsCanBeFoundOn": ["Grassland","Plains","Tundra","Desert","Fallout","Snow","Hill","Forest","Jungle","Oasis","Flood plains","Marsh"],
 		"uniques": ["Generated on every [30] tiles <in [Featureless] [Land] tiles>",
-					"Generated on every [15] tiles <in [Hill] tiles>"]
+					"Generated on every [15] tiles <in [Hill] tiles>"],
+		"civilopediaText": [
+			{
+				"extraImage": "TileSets/FantasyHex/Tiles/Gold Deposit",
+				"imageSize": 192,
+			},
+			{
+				"text": "Instantly gives 2 to 4 Gold when garrisoning",
+			},
+		]
         },
         {
                 "name": "Culture Deposit",
                 "resourceType": "Bonus",
 		"terrainsCanBeFoundOn": ["Grassland","Plains","Tundra","Desert","Fallout","Snow","Hill","Forest","Jungle","Oasis","Flood plains","Marsh"],
 		"uniques": ["Generated on every [45] tiles <in [Featureless] [Land] tiles>",
-					"Generated on every [23] tiles <in [Hill] tiles>"]
+					"Generated on every [23] tiles <in [Hill] tiles>"],
+		"civilopediaText": [
+			{
+				"extraImage": "TileSets/FantasyHex/Tiles/Culture Deposit",
+				"imageSize": 192,
+			},
+			{
+				"text": "Instantly gives 2 to 4 Culture when garrisoning",
+			},
+		]
         },
         {
                 "name": "Science Deposit",
                 "resourceType": "Bonus",
 		"terrainsCanBeFoundOn": ["Grassland","Plains","Tundra","Desert","Fallout","Snow","Hill","Forest","Jungle","Oasis","Flood plains","Marsh"],
 		"uniques": ["Generated on every [45] tiles <in [Featureless] [Land] tiles>",
-					"Generated on every [23] tiles <in [Hill] tiles>"]
+					"Generated on every [23] tiles <in [Hill] tiles>"],
+		"civilopediaText": [
+			{
+				"extraImage": "TileSets/FantasyHex/Tiles/Science Deposit",
+				"imageSize": 192,
+			},
+			{
+				"text": "Instantly gives 2 to 4 Science when garrisoning",
+			},
+		]
         },
         {
                 "name": "Faith Deposit",
                 "resourceType": "Bonus",
 		"terrainsCanBeFoundOn": ["Grassland","Plains","Tundra","Desert","Fallout","Snow","Hill","Forest","Jungle","Oasis","Flood plains","Marsh"],
 		"uniques": ["Generated on every [45] tiles <in [Featureless] [Land] tiles>",
-					"Generated on every [23] tiles <in [Hill] tiles>"]
+					"Generated on every [23] tiles <in [Hill] tiles>"],
+		"civilopediaText": [
+			{
+				"extraImage": "TileSets/FantasyHex/Tiles/Faith Deposit",
+				"imageSize": 192,
+			},
+			{
+				"text": "Instantly gives 1 to 3 Faith when garrisoning",
+			},
+		]
         },
 	
 	// Sandbox
@@ -89,6 +125,15 @@
                 "resourceType": "Luxury",
 		"terrainsCanBeFoundOn": ["Grassland","Plains","Tundra","Desert","Fallout","Snow","Hill","Forest","Jungle","Oasis","Flood plains","Marsh"],
 		"uniques": ["Generated on every [60] tiles <in [Featureless] [Land] tiles>",
-					"Generated on every [45] tiles <in [Hill] tiles>"]
+					"Generated on every [45] tiles <in [Hill] tiles>"],
+		"civilopediaText": [
+			{
+				"extraImage": "TileSets/FantasyHex/Tiles/Great Gold Deposit",
+				"imageSize": 192,
+			},
+			{
+				"text": "Instantly gives 5 to 6 Gold when garrisoning",
+			},
+		]
 	}
 ]
