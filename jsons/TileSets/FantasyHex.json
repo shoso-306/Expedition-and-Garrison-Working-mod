@@ -1,12 +1,51 @@
 {
 	"ruleVariants": {
-		// Forest
-		"Grassland+Forest+Great Gold Deposit": ["Great Gold Deposit","GrasslandForest"],
-		"Grassland+Forest+Gold Deposit": ["Gold Deposit","GrasslandForest"],
-		"Grassland+Forest+Culture Deposit": ["Culture Deposit","GrasslandForest"],
-		"Grassland+Forest+Faith Deposit": ["Faith Deposit","GrasslandForest"],
-		"Grassland+Forest+Science Deposit": ["Science Deposit","GrasslandForest"],
-		// Jungle
+		// ForestG
+		"Grassland+Forest+Great Gold Deposit": ["Grassland","Great Gold Deposit","GrasslandForest"],
+		"Grassland+Forest+Gold Deposit": ["Grassland","Gold Deposit","GrasslandForest"],
+		"Grassland+Forest+Culture Deposit": ["Grassland","Culture Deposit","GrasslandForest"],
+		"Grassland+Forest+Faith Deposit": ["Grassland","Faith Deposit","GrasslandForest"],
+		"Grassland+Forest+Science Deposit": ["Grassland","Science Deposit","GrasslandForest"],
+		// ForestP
+		"Plains+Forest+Great Gold Deposit": ["Plains","Great Gold Deposit","PlainsForest"],
+		"Plains+Forest+Gold Deposit": ["Plains","Gold Deposit","PlainsForest"],
+		"Plains+Forest+Culture Deposit": ["Plains","Culture Deposit","PlainsForest"],
+		"Plains+Forest+Faith Deposit": ["Plains","Faith Deposit","PlainsForest"],
+		"Plains+Forest+Science Deposit": ["Plains","Science Deposit","PlainsForest"],
+		// ForestT
+		"Tundra+Forest+Great Gold Deposit": ["Tundra","Great Gold Deposit","TundraForest"],
+		"Tundra+Forest+Gold Deposit": ["Tundra","Gold Deposit","TundraForest"],
+		"Tundra+Forest+Culture Deposit": ["Tundra","Culture Deposit","TundraForest"],
+		"Tundra+Forest+Faith Deposit": ["Tundra","Faith Deposit","TundraForest"],
+		"Tundra+Forest+Science Deposit": ["Tundra","Science Deposit","TundraForest"],
+		// ForestH
+		"Grassland+Hill+Forest+Great Gold Deposit": ["Grassland","Hill","Great Gold Deposit","Forest"],
+		"Grassland+Hill+Forest+Gold Deposit": ["Grassland","Hill","Gold Deposit","Forest"],
+		"Grassland+Hill+Forest+Culture Deposit": ["Grassland","Hill","Culture Deposit","Forest"],
+		"Grassland+Hill+Forest+Faith Deposit": ["Grassland","Hill","Faith Deposit","Forest"],
+		"Grassland+Hill+Forest+Science Deposit": ["Grassland","Hill","Science Deposit","Forest"],
+		"Plains+Hill+Forest+Great Gold Deposit": ["Plains","Hill","Great Gold Deposit","Forest"],
+		"Plains+Hill+Forest+Gold Deposit": ["Plains","Hill","Gold Deposit","Forest"],
+		"Plains+Hill+Forest+Culture Deposit": ["Plains","Hill","Culture Deposit","Forest"],
+		"Plains+Hill+Forest+Faith Deposit": ["Plains","Hill","Faith Deposit","Forest"],
+		"Plains+Hill+Forest+Science Deposit": ["Plains","Hill","Science Deposit","Forest"],
+		"Tundra+Hill+Forest+Great Gold Deposit": ["Tundra","Hill","Great Gold Deposit","TundraForest"],
+		"Tundra+Hill+Forest+Gold Deposit": ["Tundra","Hill","Gold Deposit","TundraForest"],
+		"Tundra+Hill+Forest+Culture Deposit": ["Tundra","Hill","Culture Deposit","TundraForest"],
+		"Tundra+Hill+Forest+Faith Deposit": ["Tundra","Hill","Faith Deposit","TundraForest"],
+		"Tundra+Hill+Forest+Science Deposit": ["Tundra","Hill","Science Deposit","TundraForest"],
+		// JungleG
+		"Grassland+Forest+Great Gold Deposit": ["Grassland","Great Gold Deposit","GrasslandForest"],
+		"Grassland+Forest+Gold Deposit": ["Grassland","Gold Deposit","GrasslandForest"],
+		"Grassland+Forest+Culture Deposit": ["Grassland","Culture Deposit","GrasslandForest"],
+		"Grassland+Forest+Faith Deposit": ["Grassland","Faith Deposit","GrasslandForest"],
+		"Grassland+Forest+Science Deposit": ["Grassland","Science Deposit","GrasslandForest"],
+		// JungleP
+		"Grassland+Forest+Great Gold Deposit": ["Grassland","Great Gold Deposit","GrasslandForest"],
+		"Grassland+Forest+Gold Deposit": ["Grassland","Gold Deposit","GrasslandForest"],
+		"Grassland+Forest+Culture Deposit": ["Grassland","Culture Deposit","GrasslandForest"],
+		"Grassland+Forest+Faith Deposit": ["Grassland","Faith Deposit","GrasslandForest"],
+		"Grassland+Forest+Science Deposit": ["Grassland","Science Deposit","GrasslandForest"],
 		// FarmG
 		"Grassland+Great Gold Deposit+Farm": ["Grassland+Farm","Great Gold Deposit"],
 		"Grassland+Gold Deposit+Farm": ["Grassland+Farm","Gold Deposit"],
