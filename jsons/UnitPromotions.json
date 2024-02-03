@@ -5,7 +5,7 @@
         },
         {
                 "name": "Miner",
-                "unitType": ["Sword"],
+                "unitTypes": ["Sword"],
                 "uniques": ["Bonus from Gold Deposit +100%"]
         },
 ]
