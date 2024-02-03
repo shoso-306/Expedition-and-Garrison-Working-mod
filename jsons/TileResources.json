@@ -3,36 +3,36 @@
                 "name": "Gold Deposit",
                 "resourceType": "Bonus",
 		"terrainsCanBeFoundOn": ["Grassland","Plains","Tundra","Fallout","Snow","Hill","Forest","Jungle","Oasis","Flood plains","Marsh"],
-		"uniques": ["Generated on every [20] tiles <in [Featureless] [Land] tiles>",
-					"Generated on every [10] tiles <in [Hill] tiles>"]
+		"uniques": ["Generated on every [30] tiles <in [Featureless] [Land] tiles>",
+					"Generated on every [15] tiles <in [Hill] tiles>"]
         },
         {
                 "name": "Culture Deposit",
                 "resourceType": "Bonus",
 		"terrainsCanBeFoundOn": ["Grassland","Plains","Tundra","Fallout","Snow","Hill","Forest","Jungle","Oasis","Flood plains","Marsh"],
-		"uniques": ["Generated on every [30] tiles <in [Featureless] [Land] tiles>",
-					"Generated on every [15] tiles <in [Hill] tiles>"]
+		"uniques": ["Generated on every [45] tiles <in [Featureless] [Land] tiles>",
+					"Generated on every [23] tiles <in [Hill] tiles>"]
         },
         {
                 "name": "Science Deposit",
                 "resourceType": "Bonus",
 		"terrainsCanBeFoundOn": ["Grassland","Plains","Tundra","Fallout","Snow","Hill","Forest","Jungle","Oasis","Flood plains","Marsh"],
-		"uniques": ["Generated on every [30] tiles <in [Featureless] [Land] tiles>",
-					"Generated on every [15] tiles <in [Hill] tiles>"]
+		"uniques": ["Generated on every [45] tiles <in [Featureless] [Land] tiles>",
+					"Generated on every [23] tiles <in [Hill] tiles>"]
         },
         {
                 "name": "Faith Deposit",
                 "resourceType": "Bonus",
 		"terrainsCanBeFoundOn": ["Grassland","Plains","Tundra","Fallout","Snow","Hill","Forest","Jungle","Oasis","Flood plains","Marsh"],
-		"uniques": ["Generated on every [30] tiles <in [Featureless] [Land] tiles>",
-					"Generated on every [15] tiles <in [Hill] tiles>"]
+		"uniques": ["Generated on every [45] tiles <in [Featureless] [Land] tiles>",
+					"Generated on every [23] tiles <in [Hill] tiles>"]
         },
         {
                 "name": "Great Gold Deposit",
                 "resourceType": "Bonus",
 		"terrainsCanBeFoundOn": ["Grassland","Plains","Tundra","Fallout","Snow","Hill","Forest","Jungle","Oasis","Flood plains","Marsh"],
-		"uniques": ["Generated on every [40] tiles <in [Featureless] [Land] tiles>",
-					"Generated on every [30] tiles <in [Hill] tiles>"]
+		"uniques": ["Generated on every [60] tiles <in [Featureless] [Land] tiles>",
+					"Generated on every [45] tiles <in [Hill] tiles>"]
         },
 	// Sandbox
 	{
