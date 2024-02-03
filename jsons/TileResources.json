@@ -13,27 +13,22 @@
 			{ "separator": true },
 			{
 				"text": "Instantly gives 2 to 4 Gold when garrisoning in Ancient era",
-				"icon": "StatIcons/Gold",
 				"color": "#ffeb7f"
 			},
 			{
 				"text": "Instantly gives 5 to 10 Gold when garrisoning in Medieval era",
-				"icon": "StatIcons/Gold",
 				"color": "#ffeb7f"
 			},
 			{
 				"text": "Instantly gives 9 to 18 Gold when garrisoning in Industrial era",
-				"icon": "StatIcons/Gold",
 				"color": "#ffeb7f"
 			},
 			{
 				"text": "Instantly gives 15 to 30 Gold when garrisoning in Atomic era",
-				"icon": "StatIcons/Gold",
 				"color": "#ffeb7f"
 			},
 			{
 				"text": "Instantly gives 27 to 54 Gold when garrisoning in Future era",
-				"icon": "StatIcons/Gold",
 				"color": "#ffeb7f"
 			},
 			{
@@ -58,7 +53,6 @@
 			{ "separator": true },
 			{
 				"text": "Instantly gives 2 to 4 Culture when garrisoning in Ancient era",
-				"icon": "StatIcons/Culture",
 				"color": "#cf8ff7",
 			},
 			{
@@ -90,8 +84,26 @@
 				"extraImage": "TileSets/FantasyHex/Tiles/Science Deposit",
 				"imageSize": 192,
 			},
+			{ "separator": true },
 			{
-				"text": "Instantly gives 2 to 4 Science when garrisoning",
+				"text": "Instantly gives 2 to 4 Science when garrisoning in Ancient era",
+				"color": "#7f7fff",
+			},
+			{
+				"text": "Instantly gives 2 to 4 Science when garrisoning in Medieval era",
+				"color": "#7f7fff",
+			},
+			{
+				"text": "Instantly gives 9 to 18 Science when garrisoning in Industrial era",
+				"color": "#7f7fff",
+			},
+			{
+				"text": "Instantly gives 15 to 30 Science when garrisoning in Atomic era",
+				"color": "#7f7fff",
+			},
+			{
+				"text": "Instantly gives 27 to 54 Science when garrisoning in Future era",
+				"color": "#7f7fff",
 			},
 		]
         },
@@ -106,8 +118,26 @@
 				"extraImage": "TileSets/FantasyHex/Tiles/Faith Deposit",
 				"imageSize": 192,
 			},
+			{ "separator": true },
 			{
-				"text": "Instantly gives 1 to 3 Faith when garrisoning",
+				"text": "Instantly gives 1 to 3 Faith when garrisoning in Ancient era",
+				"color": "#CDDDF4",
+			},
+			{
+				"text": "Instantly gives 3 to 8 Faith when garrisoning in Medieval era",
+				"color": "#CDDDF4",
+			},
+			{
+				"text": "Instantly gives 5 to 14 Faith when garrisoning in Industrial era",
+				"color": "#CDDDF4",
+			},
+			{
+				"text": "Instantly gives 8 to 23 Faith when garrisoning in Atomic era",
+				"color": "#CDDDF4",
+			},
+			{
+				"text": "Instantly gives 14 to 41 Faith when garrisoning in Future era",
+				"color": "#CDDDF4",
 			},
 		]
         },
@@ -179,8 +209,32 @@
 				"extraImage": "TileSets/FantasyHex/Tiles/Great Gold Deposit",
 				"imageSize": 192,
 			},
+			{ "separator": true },
 			{
-				"text": "Instantly gives 5 to 6 Gold when garrisoning",
+				"text": "Instantly gives 4 to 6 Gold when garrisoning in Ancient era",
+				"color": "#ffeb7f"
+			},
+			{
+				"text": "Instantly gives 10 to 15 Gold when garrisoning in Medieval era",
+				"color": "#ffeb7f"
+			},
+			{
+				"text": "Instantly gives 18 to 27 Gold when garrisoning in Industrial era",
+				"color": "#ffeb7f"
+			},
+			{
+				"text": "Instantly gives 30 to 45 Gold when garrisoning in Atomic era",
+				"color": "#ffeb7f"
+			},
+			{
+				"text": "Instantly gives 54 to 81 Gold when garrisoning in Future era",
+				"color": "#ffeb7f"
+			},
+			{
+				"text": "If your garrisoning unit have Miner Promotion, All of profit from this tile +100%",
+				"starred": true,
+				"link": "Promotion/Miner",
+				"color": "yerrow"
 			},
 		]
 	}
