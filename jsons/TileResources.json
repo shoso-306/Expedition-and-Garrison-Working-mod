@@ -29,7 +29,7 @@
         },
         {
                 "name": "Great Gold Deposit",
-                "resourceType": "Bonus",
+                "resourceType": "Luxury",
 		"terrainsCanBeFoundOn": ["Grassland","Plains","Tundra","Fallout","Snow","Hill","Forest","Jungle","Oasis","Flood plains","Marsh"],
 		"uniques": ["Generated on every [60] tiles <in [Featureless] [Land] tiles>",
 					"Generated on every [45] tiles <in [Hill] tiles>"]
